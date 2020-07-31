@@ -10,3 +10,4 @@ const greeting = "hello my name is ";
 console.log(texts);
 
 
+console.log(color);
