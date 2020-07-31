@@ -1,3 +1,4 @@
 const number = 1;
 const text = "hello";
-const color = "yellow";
+const color = "blue";
+const cost = 12;
