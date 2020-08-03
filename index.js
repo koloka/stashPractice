@@ -11,3 +11,6 @@ function encrypt(name){
   const name = name;
   return name;
 }
+function gg(){
+  return;
+}
