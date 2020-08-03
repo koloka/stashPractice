@@ -7,6 +7,8 @@ const distance = 45;
 const greeting = "hello my name is ";
 const car = "bmw";
 
+
+
 console.log(texts);
 
 
