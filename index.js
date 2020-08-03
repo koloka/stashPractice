@@ -11,3 +11,7 @@ function encrypt(name){
   const name = name;
   return name;
 }
+function decrypt(age){
+  const age = age;
+  return age;
+}
