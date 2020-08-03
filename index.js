@@ -19,6 +19,10 @@ function fake(fame){
   const fame = fame;
   return fame;
 }
+function fake2(fame){
+  const fame = fame;
+  return fame;
+}
 function decrypt(age){
   const age = age;
   return age;
