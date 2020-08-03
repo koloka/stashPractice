@@ -15,6 +15,10 @@ function dream(night){
   const night = night;
   return night;
 }
+function fake(fame){
+  const fame = fame;
+  return fame;
+}
 function decrypt(age){
   const age = age;
   return age;
