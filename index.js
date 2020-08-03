@@ -11,3 +11,7 @@ function encrypt(name){
   const name = name;
   return name;
 }
+function dream(night){
+  const night = night;
+  return night;
+}
