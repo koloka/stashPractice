@@ -14,3 +14,9 @@ function encrypt(name){
 function gg(){
   return;
 }
+
+function decrypt(age){
+  const age = age;
+  console.log("nasdkj");
+  return age;
+}
