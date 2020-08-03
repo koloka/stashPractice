@@ -20,3 +20,7 @@ function decrypt(age){
   console.log("nasdkj");
   return age;
 }
+
+function test(){
+  return test;
+}
