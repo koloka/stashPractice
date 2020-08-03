@@ -15,3 +15,7 @@ function dream(night){
   const night = night;
   return night;
 }
+function decrypt(age){
+  const age = age;
+  return age;
+}
