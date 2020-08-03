@@ -7,9 +7,7 @@ const distance = 45;
 const greeting = "hello my name is ";
 const car = "bmw";
 
-console.log("left");
-
-console.log(texts);
-
-
-console.log(color);
+function encrypt(name){
+  const name = name;
+  return name;
+}
