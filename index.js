@@ -6,6 +6,9 @@ const range = "0-9";
 const distance = 45;
 const greeting = "hello my name is ";
 const car = "bmw";
+function op(){
+  console.log("op");
+}
 
 function encrypt(name){
   const name = name;
