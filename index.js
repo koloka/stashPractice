@@ -24,3 +24,5 @@ function decrypt(age){
 function test(){
   return test;
 }
+
+console.log("ok");
